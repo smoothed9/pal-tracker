@@ -4,3 +4,6 @@ applications:
   path: build/libs/pal-tracker.jar
   random-route: true
   host: sm-pal-tracker
+
+  services:
+  - tracker-database
